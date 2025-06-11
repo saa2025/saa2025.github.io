@@ -13,7 +13,6 @@ title: 1st Workshop on Systems for Agentic AI (SAA ’25)
 <div style="text-align: center; margin-bottom: 40px;">
 <p style="margin: 7px;"><strong>Date: </strong>October 13, 2025</p>
 <p style="margin: 7px;"><strong>Venue: </strong>Seoul, Korea</p>
-<p style="margin: 7px;"><strong>Duration: </strong>Half day</p>
 <p style="margin: 7px;"><em>In conjunction with the<br/><a href="https://sigops.org/s/conferences/sosp/2025/">31st ACM Symposium on Operating Systems Principles (SOSP '25)</a></em></p>
 </div>
 
