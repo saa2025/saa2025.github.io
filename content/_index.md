@@ -10,7 +10,7 @@ title: 1st Workshop on Systems for Agentic AI (SAA ’25)
 
 # 1st Workshop on Systems for Agentic AI
 
-<div style="text-align: center;">
+<div style="text-align: center; margin-bottom: 40px;">
 <p style="margin: 7px;"><strong>Date: </strong>October 13, 2025</p>
 <p style="margin: 7px;"><strong>Venue: </strong>Seoul, Korea</p>
 <p style="margin: 7px;"><strong>Duration: </strong>Half day</p>
