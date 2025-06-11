@@ -19,7 +19,7 @@ title: 1st Workshop on Systems for Agentic AI (SAA ’25)
 
 As generative and agentic AI systems grow more powerful and widely adopted, the need for efficient, scalable infrastructure to support their deployment has become more pressing than ever. This workshop aims to bring together leading researchers and practitioners from both academia and industry to share insights, challenges, and breakthroughs in building high-performance systems for generative and agentic AI. By fostering collaboration between system designers, infrastructure engineers, and AI researchers, we seek to advance the state of the art in deploying AI systems that are cost-effective, responsive, and capable of interacting with complex real-world environments.
 
-## Call for Papers (CFP)
+## Call for Presentations
 
 We invite authors to submit an abstract outlining their proposed presentation. We welcome new challenges, system designs, optimization techniques, or lessons learned from production deployments of generative or agentic AI.
 
