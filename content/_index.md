@@ -58,6 +58,11 @@ We invite authors to submit an abstract outlining their proposed presentation. W
 - Jae Wook Lee, Seoul National University
 - Byung-Gon Chun, FriendliAI and Seoul National University
 
+### Contacts
+
+- Byung-Gon Chun: bgchun@snu.ac.kr
+- Gyeong-In Yu: gyeongin@friendli.ai
+
 ### Sponsorship Opportunities
 
 We welcome sponsors interested in promoting their AI infrastructure tools, model inference services, AI agent services, or cloud platforms.
