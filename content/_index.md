@@ -16,6 +16,10 @@ title: 1st Workshop on Systems for Agentic AI (SAA ’25)
 <p style="margin: 7px;"><em>In conjunction with the<br/><a href="https://sigops.org/s/conferences/sosp/2025/">31st ACM Symposium on Operating Systems Principles (SOSP '25)</a></em></p>
 </div>
 
+{{< box info >}}
+Submission is open at <a href="https://saa25.hotcrp.com/">https://saa25.hotcrp.com</a> until August 7, 2025 AoE.
+{{< /box >}}
+
 As generative and agentic AI systems grow more powerful and widely adopted, the need for efficient, scalable infrastructure to support their deployment has become more pressing than ever. This workshop aims to bring together leading researchers and practitioners from both academia and industry to share insights, challenges, and breakthroughs in building high-performance systems for generative and agentic AI. By fostering collaboration between system designers, infrastructure engineers, and AI researchers, we seek to advance the state of the art in deploying AI systems that are cost-effective, responsive, and capable of interacting with complex real-world environments.
 
 ## Call for Presentations
@@ -40,13 +44,13 @@ We invite authors to submit an abstract outlining their proposed presentation. W
 
 ### Important dates
 
-- Abstract submission deadline: August 7, 2025
+- Submission deadline: August 7, 2025
 - Acceptance notification: August 23, 2025
 - Workshop date: October 13, 2025
 
 ### Presentation abstract submission portal
 
-<em>To be announced</em>
+The submission website is <a href="https://saa25.hotcrp.com/">https://saa25.hotcrp.com</a>.
 
 ### Program schedule
 

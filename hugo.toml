@@ -1,7 +1,7 @@
 baseURL = 'https://saa2025.github.io/'
 languageCode = 'en-us'
 title = '1st Workshop on Systems for Agentic AI (SAA ’25)'
-theme = 'PaperMod'
+theme = ['hugo-shortcode-roneo-collection', 'PaperMod']
 
 [markup]
   [markup.goldmark]
