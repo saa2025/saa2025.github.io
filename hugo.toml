@@ -3,6 +3,10 @@ languageCode = 'en-us'
 title = '1st Workshop on Systems for Agentic AI (SAA ’25)'
 theme = ['hugo-shortcode-roneo-collection', 'PaperMod']
 
+[params]
+  defaultTheme = "light"
+  disableThemeToggle = true
+
 [markup]
   [markup.goldmark]
     duplicateResourceFiles = false
