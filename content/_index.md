@@ -6,6 +6,11 @@ title: 1st Workshop on Systems for Agentic AI (SAA ’25)
 .post-content h1 {
   font-size: 35px;
 }
+object.email {
+	height: 2em;
+	margin: -1em 0;
+	vertical-align: middle;
+}
 </style>
 
 # 1st Workshop on Systems for Agentic AI
@@ -68,8 +73,8 @@ The submission website is <a href="https://saa25.hotcrp.com/">https://saa25.hotc
 
 ### Contacts
 
-- Byung-Gon Chun: bgchun@snu.ac.kr
-- Gyeong-In Yu: gyeongin@friendli.ai
+- Byung-Gon Chun: <object class="email" width="200" height="20" data="mail0.svg" type="image/svg+xml"></object>
+- Gyeong-In Yu: <object class="email" width="200" height="20" data="mail1.svg" type="image/svg+xml"></object>
 
 ### Sponsorship Opportunities
 

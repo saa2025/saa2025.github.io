@@ -1,0 +1,17 @@
+<svg viewBox="0 0 130 24" xmlns="http://www.w3.org/2000/svg">
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Kode+Mono&amp;display=swap');
+
+text {
+	dominant-baseline: middle;
+	fill: #000;
+	font-family: 'Kode Mono', monospace;
+	font-size: 9px;
+	text-anchor: middle;
+}
+</style>
+
+<text x="50%" y="50%">gyeongin at friendli.ai</text>
+
+</svg>
