@@ -67,14 +67,15 @@ The submission website is <a href="https://saa25.hotcrp.com/">https://saa25.hotc
 
 ### Organizers
 
-- Gyeong-In Yu, FriendliAI
-- Jae Wook Lee, Seoul National University
 - Byung-Gon Chun, FriendliAI and Seoul National University
+- Jae Wook Lee, Seoul National University
+- Gyeong-In Yu, FriendliAI
 
 ### Contacts
 
 - Byung-Gon Chun: <object class="email" width="200" height="20" data="mail0.svg" type="image/svg+xml"></object>
 - Gyeong-In Yu: <object class="email" width="200" height="20" data="mail1.svg" type="image/svg+xml"></object>
+- Jae Wook Lee: <object class="email" width="200" height="20" data="mail2.svg" type="image/svg+xml"></object>
 
 ### Sponsorship Opportunities
 
