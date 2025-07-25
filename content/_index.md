@@ -32,7 +32,7 @@ As generative and agentic AI systems grow more powerful and widely adopted, the 
 We invite authors to submit an abstract outlining their proposed presentation. We welcome new challenges, system designs, optimization techniques, or lessons learned from production deployments of generative or agentic AI.
 
 {{< box info >}}
-A one-page, two-column document outlining your presentation is required. Templates for Word and LaTeX are available at: https://www.acm.org/publications/proceedings-template.
+A two-column document of 1–2 pages outlining your presentation is required. Templates for Word and LaTeX are available at: https://www.acm.org/publications/proceedings-template.
 {{< /box >}}
 
 ### Topics of Interests
