@@ -73,10 +73,8 @@ The submission website is <a href="https://saa25.hotcrp.com/">https://saa25.hotc
 
 ### Contacts
 
-- Byung-Gon Chun: <object class="email" width="200" height="20" data="mail0.svg" type="image/svg+xml"></object>
-- Gyeong-In Yu: <object class="email" width="200" height="20" data="mail1.svg" type="image/svg+xml"></object>
-- Jae Wook Lee: <object class="email" width="200" height="20" data="mail2.svg" type="image/svg+xml"></object>
+Any organizational questions or submission inquiries can be emailed to saa25@googlegroups.com.
 
 ### Sponsorship Opportunities
 
-We welcome sponsors interested in promoting their AI infrastructure tools, model inference services, AI agent services, or cloud platforms.
+We welcome sponsors interested in promoting their AI infrastructure tools, model inference services, AI agent services, or cloud platforms. Please contact the organizers at saa25@googlegroups.com.
