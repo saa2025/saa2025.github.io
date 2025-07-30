@@ -31,10 +31,6 @@ As generative and agentic AI systems grow more powerful and widely adopted, the 
 
 We invite authors to submit an abstract outlining their proposed presentation. We welcome new challenges, system designs, optimization techniques, or lessons learned from production deployments of generative or agentic AI.
 
-{{< box info >}}
-A two-column document of 1–2 pages outlining your presentation is required. Templates for Word and LaTeX are available at: https://www.acm.org/publications/proceedings-template.
-{{< /box >}}
-
 ### Topics of Interests
 
 - Foundations of Generative and Agentic AI Inference
@@ -51,15 +47,19 @@ A two-column document of 1–2 pages outlining your presentation is required. Te
 - Evaluation Methodologies for Inference Optimization
 - Scaling Laws and Trends in Inference Workloads
 
-### Important dates
+### Important Dates
 
 - Submission deadline: August 7, 2025
 - Acceptance notification: August 23, 2025
 - Workshop date: October 13, 2025
 
-### Presentation abstract submission portal
+### Submission Guidelines
 
-The submission website is <a href="https://saa25.hotcrp.com/">https://saa25.hotcrp.com</a>.
+Submissions should be no more than two pages in length, excluding references, and must follow the standard ACM two-column conference format with a 10-point font. Authors are encouraged to consult the official ACM website for the most up-to-date template: <a href="https://www.acm.org/publications/proceedings-template">https://www.acm.org/publications/proceedings-template</a>.
+
+Submissions will be reviewed in a single-blind process. Presentations will be selected based on their potential to spark insightful technical discussions at the workshop and to influence future systems research. Evaluation criteria include originality, technical merit, clarity, relevance, industry impact, and the depth of insights or lessons shared. Please note that submissions will not be published in the ACM Digital Library.
+
+Submissions can be made online at <a href="https://saa25.hotcrp.com/">https://saa25.hotcrp.com</a>.
 
 ### Program schedule
 
@@ -78,3 +78,6 @@ Any organizational questions or submission inquiries can be emailed to saa25@goo
 ### Sponsorship Opportunities
 
 We welcome sponsors interested in promoting their AI infrastructure tools, model inference services, AI agent services, or cloud platforms. Please contact the organizers at saa25@googlegroups.com.
+
+## Sponsors
+
