@@ -11,6 +11,9 @@ object.email {
 	margin: -1em 0;
 	vertical-align: middle;
 }
+img.sponsor-logo {
+    max-width: 50%;
+}
 </style>
 
 # 1st Workshop on Systems for Agentic AI
@@ -81,3 +84,8 @@ We welcome sponsors interested in promoting their AI infrastructure tools, model
 
 ## Sponsors
 
+<p>
+  <a href="https://friendli.ai/">
+    <img class="sponsor-logo" alt="FriendliAI" loading="lazy" src="friendliai.svg">
+  </a>
+</p>
