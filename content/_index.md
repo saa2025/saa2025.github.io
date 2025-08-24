@@ -54,6 +54,7 @@ We invite authors to submit an abstract outlining their proposed presentation. W
 
 - Submission deadline: ~~August 7, 2025~~ &rarr; August 14, 2025
 - Acceptance notification: August 23, 2025
+- Camera-ready due: October 3, 2025
 - Workshop date: October 13, 2025
 
 ### Submission Guidelines
