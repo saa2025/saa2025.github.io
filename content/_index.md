@@ -65,7 +65,11 @@ Submissions will be reviewed in a single-blind process. Presentations will be se
 
 Submissions can be made online at <a href="https://saa25.hotcrp.com/">https://saa25.hotcrp.com</a>.
 
-### Program schedule
+#### Accepted Papers
+
+Authors of accepted papers will be expected to supply electronic versions of their papers. Camera-ready papers may be up to 4 pages in length, excluding references. To facilitate broad technical discussion, all accepted papers will be made available online in advance of the workshop.
+
+### Program Schedule
 
 <em>To be announced</em>
 
