@@ -1,5 +1,5 @@
 ---
-title: Workshop Program
+title: Accepted Papers
 ---
 
 <style>
