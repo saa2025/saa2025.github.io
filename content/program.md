@@ -26,7 +26,7 @@ img.sponsor-logo {
 - **DMAS-Forge: A Framework for Transparent Deployment of AI Applications as Distributed Systems**<br>
   Alessandro Cornacchia (KAUST); Vaastav Anand (Max Planck Institute for Software Systems); Muhammad Bilal (KAUST); Zafar Ayyub Qazi (LUMS & KAUST); Marco Canini (KAUST)
 - **Automated Annotation Inference for MCP-based Agents**<br>
-  Grigoris Ntousakis (IBM Research); Julian James Stephen, Michael V. Le (IBM); Sai Sree Laya Chukkapalli, Teryl Taylor, Frederico Araujo (IBM Research)
+  Grigoris Ntousakis (Brown University); Julian James Stephen, Michael V. Le (IBM); Sai Sree Laya Chukkapalli, Teryl Taylor, Frederico Araujo (IBM Research)
 - **Toward Systems Foundations for Agentic Exploration**<br>
   Jiakai Xu, Tianle Zhou, Eugene Wu, Kostis Kaffes (Columbia University)
 - **Supporting Our AI Overlords: Redesigning Data Systems to be Agent-First**<br>
