@@ -18,6 +18,10 @@ body {
 .post-content ul {
   margin-left: 30px;
 }
+.post-content span.programtime {
+  font-weight: lighter;
+  margin-left: 8px;
+}
 object.email {
 	height: 2em;
 	margin: -1em 0;
@@ -28,9 +32,13 @@ img.sponsor-logo {
 }
 </style>
 
-<h2>Opening remarks (Byung-Gon Chun)</h2>
+{{< box info >}}
+The workshop location is Crystal Ballroom A (3F). (More information on the location can be found <a href="https://www.lottehotel.com/world-hotel/en/wedding-convention/convention/crystal-ballroom">here</a>.)
+{{< /box >}}
 
-<h2>Session 1: Foundations and Architecture (Chair: Byung-Gon Chun)<br>
+<h2>Opening remarks (Byung-Gon Chun) <span class="programtime">2:00 – 2:05</span></h2>
+
+<h2>Session 1: Foundations and Architecture (Chair: Byung-Gon Chun) <span class="programtime">2:05 - 2:50</span><br>
 "Foundational Systems for Agentic AI"</h2>
 
 <ul>
@@ -42,9 +50,9 @@ Jiakai Xu, Tianle Zhou, Eugene Wu, Kostis Kaffes (Columbia University)</li>
 Shu Liu, Soujanya Ponnapalli, Shreya Shankar, Sepanta Zeighami, Alan Zhu, Shubham Agarwal, Ruiqi Chen, Samion Suwito, Shuo Yuan, Ion Stoica, Matei Zaharia (UC Berkeley); Alvin Cheung (University of California, Berkeley); Natacha Crooks (UC Berkeley); Joseph Gonzalez (University of California); Aditya Parameswaran (UC Berkeley)</li>
 </ul>
 
-<h2>Break</h2>
+<h2>Break <span class="programtime">2:55 - 3:00</span></h2>
 
-<h2>Session 2: Resource Management and Optimization (Chair: Jae Wook Lee)<br>
+<h2>Session 2: Resource Management and Optimization (Chair: Jae Wook Lee) <span class="programtime">3:00-3:55</span><br>
 "Efficient Resource Orchestration for AI Agents"</h2>
 
 <ul>
@@ -56,9 +64,9 @@ Ziji Shi (National University of Singapore, Sea AI Lab); Chaoyi Ruan (National U
 Jinwoo Jeong, Younghun Go, Changyong Shin, Minchul Kang, Hyunho Lee (Department of Computer Science and Engineering, Korea University); Junho Yoon (KT Corporation); Gyeongsik Yang, Chuck Yoo (Department of Computer Science and Engineering, Korea University)</li>
 </ul>
 
-<h2>Break</h2>
+<h2>Break <span class="programtime">3:55 – 4:15</span></h2>
 
-<h2>Session 3: Deployment, Monitoring, and Learning (Chair: Gyeongin Yu)<br>
+<h2>Session 3: Deployment, Monitoring, and Learning (Chair: Gyeongin Yu) <span class="programtime">4:15 – 5:30</span><br>
 "Operationalizing AI Agents: From Deployment to Continuous Improvement"</h2>
 
 <ul>
