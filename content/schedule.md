@@ -52,7 +52,7 @@ Shu Liu, Soujanya Ponnapalli, Shreya Shankar, Sepanta Zeighami, Alan Zhu, Shubha
 
 <h2>Break <span class="programtime">2:55 - 3:00</span></h2>
 
-<h2>Session 2: Resource Management and Optimization (Chair: Jae Wook Lee) <span class="programtime">3:00-3:55</span><br>
+<h2>Session 2: Resource Management and Optimization (Chair: Jae Wook Lee) <span class="programtime">3:00 - 3:55</span><br>
 "Efficient Resource Orchestration for AI Agents"</h2>
 
 <ul>
