@@ -38,7 +38,7 @@ The workshop location is Crystal Ballroom A (3F). (More information on the locat
 
 <h2>Opening remarks (Byung-Gon Chun) <span class="programtime">2:00 – 2:05</span></h2>
 
-<h2>Session 1: Foundations and Architecture (Chair: Byung-Gon Chun) <span class="programtime">2:05 - 2:50</span><br>
+<h2>Session 1: Foundations and Architecture (Chair: Byung-Gon Chun) <span class="programtime">2:05 - 2:55</span><br>
 "Foundational Systems for Agentic AI"</h2>
 
 <ul>
