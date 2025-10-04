@@ -61,7 +61,7 @@ Nikos Pagonas (Columbia University); Yeounoh Chung (Google); Kostis Kaffes (Colu
 <li><strong>Tetris: Efficient and Predictive KV Cache Offloading for Agentic and Reasoning Workloads</strong><br>
 Ziji Shi (National University of Singapore, Sea AI Lab); Chaoyi Ruan (National University of Singapore); Penghui Qi, Guangxing Huang, Xinyi Wan, Min Lin (Sea AI Lab); Jialin Li (National University of Singapore)</li>
 <li><strong>GPU Memory Prediction for Multimodal Model Training</strong><br>
-Jinwoo Jeong, Younghun Go, Changyong Shin, Minchul Kang, Hyunho Lee (Department of Computer Science and Engineering, Korea University); Junho Yoon (KT Corporation); Gyeongsik Yang, Chuck Yoo (Department of Computer Science and Engineering, Korea University)</li>
+Jinwoo Jeong, Minchul Kang, Younghun Go, Changyong Shin, Hyunho Lee (Department of Computer Science and Engineering, Korea University); Junho Yoon (KT Corporation); Gyeongsik Yang, Chuck Yoo (Department of Computer Science and Engineering, Korea University)</li>
 </ul>
 
 <h2>Break <span class="programtime">3:55 – 4:15</span></h2>
