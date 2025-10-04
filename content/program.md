@@ -34,7 +34,7 @@ img.sponsor-logo {
 - **Useful Agentic AI: A Systems Outlook**<br>
   Marquita Ellis (IBM Research); Melissa Pan (UC Berkeley); Jared Quincy Davis (Stanford University); Yuxuan Zhu (University of Illinois at Urbana-Champaign); Riccardo Cogo (Intesa Sanpaolo); Lakshya A Agrawal, Negar Arabzadeh, Xiaoyuan Liu, Huanzhi Mao, Sid Pallerla, Tianneng Shi, Alexander Xiong (UC Berkeley); Alessandro Basile, Emmanuele Lacavalla, Shuyi Yang (Intesa Sanpaolo); Diana Arroyo, Paul Castro (IBM Research); Daniel Kang (University of Illinois at Urbana-Champaign); Joseph Gonzalez, Koushik Sen, Dawn Song, Ion Stoica, Matei Zaharia (UC Berkeley)
 - **GPU Memory Prediction for Multimodal Model Training**<br>
-  Jinwoo Jeong, Younghun Go, Changyong Shin, Minchul Kang, Hyunho Lee (Department of Computer Science and Engineering, Korea University); Junho Yoon (KT Corporation); Gyeongsik Yang, Chuck Yoo (Department of Computer Science and Engineering, Korea University)
+  Jinwoo Jeong, Minchul Kang, Younghun Go, Changyong Shin, Hyunho Lee (Department of Computer Science and Engineering, Korea University); Junho Yoon (KT Corporation); Gyeongsik Yang, Chuck Yoo (Department of Computer Science and Engineering, Korea University)
 - **Tetris: Efficient and Predictive KV Cache Offloading for Agentic and Reasoning Workloads**<br>
   Ziji Shi (National University of Singapore, Sea AI Lab); Chaoyi Ruan (National University of Singapore); Penghui Qi, Guangxing Huang, Xinyi Wan, Min Lin (Sea AI Lab); Jialin Li (National University of Singapore)
 - **EARL: Efficient Agentic Reinforcement Learning Systems for Large Language Models**<br>
