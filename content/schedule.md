@@ -38,8 +38,7 @@ The workshop location is Crystal Ballroom A (3F). (More information on the locat
 
 <h2>Opening remarks (Byung-Gon Chun) <span class="programtime">2:00 – 2:05</span></h2>
 
-<h2>Session 1: Foundations and Architecture (Chair: Byung-Gon Chun) <span class="programtime">2:05 - 2:55</span><br>
-"Foundational Systems for Agentic AI"</h2>
+<h2>Session 1: Foundational Systems for Agentic AI (Chair: Byung-Gon Chun) <span class="programtime">2:05 - 2:55</span></h2>
 
 <ul>
 <li><strong>Useful Agentic AI: A Systems Outlook</strong><br>
@@ -52,8 +51,7 @@ Shu Liu, Soujanya Ponnapalli, Shreya Shankar, Sepanta Zeighami, Alan Zhu, Shubha
 
 <h2>Break <span class="programtime">2:55 - 3:00</span></h2>
 
-<h2>Session 2: Resource Management and Optimization (Chair: Jae Wook Lee) <span class="programtime">3:00 - 3:55</span><br>
-"Efficient Resource Orchestration for AI Agents"</h2>
+<h2>Session 2: Efficient Resource Orchestration for AI Agents (Chair: Jae Wook Lee) <span class="programtime">3:00 - 3:55</span></h2>
 
 <ul>
 <li><strong>Cortex: Workflow-Aware Resource Pooling and Scheduling for Agentic Serving</strong><br>
@@ -66,8 +64,7 @@ Jinwoo Jeong, Minchul Kang, Younghun Go, Changyong Shin, Hyunho Lee (Department 
 
 <h2>Break <span class="programtime">3:55 – 4:15</span></h2>
 
-<h2>Session 3: Deployment, Monitoring, and Learning (Chair: Gyeongin Yu) <span class="programtime">4:15 – 5:30</span><br>
-"Operationalizing AI Agents: From Deployment to Continuous Improvement"</h2>
+<h2>Session 3: Operationalizing AI Agents: From Deployment to Continuous Improvement (Chair: Gyeongin Yu) <span class="programtime">4:15 – 5:30</span></h2>
 
 <ul>
 <li><strong>DMAS-Forge: A Framework for Transparent Deployment of AI Applications as Distributed Systems</strong><br>
