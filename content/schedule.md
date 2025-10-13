@@ -45,7 +45,7 @@ The workshop location is Crystal Ballroom A (3F). (More information on the locat
 Marquita Ellis (IBM Research); Melissa Pan (UC Berkeley); Jared Quincy Davis (Stanford University); Yuxuan Zhu (University of Illinois at Urbana-Champaign); Riccardo Cogo (Intesa Sanpaolo); Lakshya A Agrawal, Negar Arabzadeh, Xiaoyuan Liu, Huanzhi Mao, Sid Pallerla, Tianneng Shi, Alexander Xiong (UC Berkeley); Alessandro Basile, Emmanuele Lacavalla, Shuyi Yang (Intesa Sanpaolo); Diana Arroyo, Paul Castro (IBM Research); Daniel Kang (University of Illinois at Urbana-Champaign); Joseph Gonzalez, Koushik Sen, Dawn Song, Ion Stoica, Matei Zaharia (UC Berkeley)</li>
 <li><strong>Toward Systems Foundations for Agentic Exploration</strong> <a href="/papers/Toward Systems Foundations for Agentic Exploration.pdf">PDF</a><br>
 Jiakai Xu, Tianle Zhou, Eugene Wu, Kostis Kaffes (Columbia University)</li>
-<li><strong>Supporting Our AI Overlords: Redesigning Data Systems to be Agent-First</strong><br>
+<li><strong>Supporting Our AI Overlords: Redesigning Data Systems to be Agent-First</strong> <a href="https://arxiv.org/abs/2509.00997">arXiv</a><br>
 Shu Liu, Soujanya Ponnapalli, Shreya Shankar, Sepanta Zeighami, Alan Zhu, Shubham Agarwal, Ruiqi Chen, Samion Suwito, Shuo Yuan, Ion Stoica, Matei Zaharia (UC Berkeley); Alvin Cheung (University of California, Berkeley); Natacha Crooks (UC Berkeley); Joseph Gonzalez (University of California); Aditya Parameswaran (UC Berkeley)</li>
 </ul>
 
