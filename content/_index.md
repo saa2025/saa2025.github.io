@@ -25,7 +25,7 @@ img.sponsor-logo {
 </div>
 
 {{< box info >}}
-The workshop program schedule can be found <a href="/schedule/">here</a>.
+We extend our thanks to all authors and the audience who participated in this workshop! The workshop program and papers can be found <a href="/schedule/">here</a>.
 {{< /box >}}
 
 As generative and agentic AI systems grow more powerful and widely adopted, the need for efficient, scalable infrastructure to support their deployment has become more pressing than ever. This workshop aims to bring together leading researchers and practitioners from both academia and industry to share insights, challenges, and breakthroughs in building high-performance systems for generative and agentic AI. By fostering collaboration between system designers, infrastructure engineers, and AI researchers, we seek to advance the state of the art in deploying AI systems that are cost-effective, responsive, and capable of interacting with complex real-world environments.
@@ -54,8 +54,8 @@ We invite authors to submit an abstract outlining their proposed presentation. W
 
 - ~~Submission deadline: August 7, 2025 &rarr; August 14, 2025~~
 - ~~Acceptance notification: August 23, 2025~~
-- Camera-ready due: October 3, 2025
-- Workshop date: October 13, 2025
+- ~~Camera-ready due: October 3, 2025~~
+- ~~Workshop date: October 13, 2025~~
 
 ### Submission Guidelines
 
