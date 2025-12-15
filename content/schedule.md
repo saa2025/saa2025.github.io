@@ -41,7 +41,7 @@ The workshop location is Crystal Ballroom A (3F). (More information on the locat
 <h2>Session 1: Foundational Systems for Agentic AI (Chair: Byung-Gon Chun) <span class="programtime">2:05 - 2:55</span></h2>
 
 <ul>
-<li><strong>Useful Agentic AI: A Systems Outlook</strong> <a href="/papers/Useful Agentic AI - A Systems Outlook.pdf">PDF</a><br>
+<li><strong>Useful Agentic AI: A Systems Outlook</strong> <a href="/papers/Useful Agentic AI - A Systems Outlook.pdf">PDF</a> <a href="https://arxiv.org/abs/2512.04123v1">arXiv</a><br>
 Marquita Ellis (IBM Research); Melissa Pan (UC Berkeley); Jared Quincy Davis (Stanford University); Yuxuan Zhu (University of Illinois at Urbana-Champaign); Riccardo Cogo (Intesa Sanpaolo); Lakshya A Agrawal, Negar Arabzadeh, Xiaoyuan Liu, Huanzhi Mao, Sid Pallerla, Tianneng Shi, Alexander Xiong (UC Berkeley); Alessandro Basile, Emmanuele Lacavalla, Shuyi Yang (Intesa Sanpaolo); Diana Arroyo, Paul Castro (IBM Research); Daniel Kang (University of Illinois at Urbana-Champaign); Joseph Gonzalez, Koushik Sen, Dawn Song, Ion Stoica, Matei Zaharia (UC Berkeley)</li>
 <li><strong>Toward Systems Foundations for Agentic Exploration</strong> <a href="/papers/Toward Systems Foundations for Agentic Exploration.pdf">PDF</a><br>
 Jiakai Xu, Tianle Zhou, Eugene Wu, Kostis Kaffes (Columbia University)</li>
